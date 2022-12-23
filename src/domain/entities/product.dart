@@ -8,8 +8,4 @@ class Product {
     required this.name,
     required this.tags,
   });
-
-  get value { 
-    return this;
-  }
 }
