@@ -1,7 +1,10 @@
 A server app built using [Shelf](https://pub.dev/packages/shelf),
 configured to enable running with [Docker](https://www.docker.com/).
 
-# Running the sample
+# Product Api Dart
+
+## Request Collection
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Product%20Api%20Dart&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fclebsonsantos%2Fproduct-api-dart%2Fmaster%2Finsomnia%2FInsomnia_2022-12-23.json)
 
 ## Running with the Dart SDK
 
